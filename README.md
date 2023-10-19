@@ -26,6 +26,9 @@
     <img align="center" alt="Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
     <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img align="center" alt="Spring boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+        <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+            <img align="center" alt="Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" />
 </div>
   
 ##
